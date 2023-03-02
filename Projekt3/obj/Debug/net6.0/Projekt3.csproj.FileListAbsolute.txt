@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\Projekt3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\Projekt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\Projekt3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\Projekt3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\Projekt3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\bin\Debug\net6.0\Projekt3.exe
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\bin\Debug\net6.0\Projekt3.deps.json
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\bin\Debug\net6.0\Projekt3.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\bin\Debug\net6.0\Projekt3.dll
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\bin\Debug\net6.0\Projekt3.pdb
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\Projekt3.dll
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\refint\Projekt3.dll
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\Projekt3.pdb
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\Projekt3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\seminarC#\SeminarC#_1\Projekt3\obj\Debug\net6.0\ref\Projekt3.dll
